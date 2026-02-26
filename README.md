@@ -1,7 +1,6 @@
 
   # SaaS Web Application UI Design
 
-  This is a code bundle for SaaS Web Application UI Design. The original project is available at https://www.figma.com/design/d9KbOoY9XCQ01viAtflYQn/SaaS-Web-Application-UI-Design.
 
   ## Running the code
 
